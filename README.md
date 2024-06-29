@@ -1,11 +1,17 @@
 Features:
 
 Timber --> Uso Logs
+
 Inyeccion de dependencias (Dagger Hilt)
+
 JetpackCompose 
+
 Interceptor HTTP
+
 MVVM
+
 Flow
+
 Testing
 
 Lottie![splash](https://github.com/CrisAngelT/RecipesApp/assets/145697573/8074fcd9-7333-4403-b25b-e327ed39977b)
