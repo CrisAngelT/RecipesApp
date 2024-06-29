@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecipesApp</string>
+    <string name="app_name_recipe">Recipes</string>
+    <string name="text_app">App</string>
+    <string name="text_lookForYourRecipe">Busca tu receta favorita por nombre o ingrediente</string>
+    <string name="text_search">Buscar</string>
+    <string name="text_ingredients">Ingredientes</string>
+    <string name="text_preparation">Preparación</string>
+
+
+
+</resources>
