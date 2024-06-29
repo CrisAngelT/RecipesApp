@@ -14,7 +14,7 @@ Flow
 
 Testing
 
-Lottie![splash](https://github.com/CrisAngelT/RecipesApp/assets/145697573/8074fcd9-7333-4403-b25b-e327ed39977b)
+![splash](https://github.com/CrisAngelT/RecipesApp/assets/145697573/8074fcd9-7333-4403-b25b-e327ed39977b)
 
 ![recipe](https://github.com/CrisAngelT/RecipesApp/assets/145697573/4375c1ed-85ef-4f9b-ba2a-6c0f684e260f)
 
